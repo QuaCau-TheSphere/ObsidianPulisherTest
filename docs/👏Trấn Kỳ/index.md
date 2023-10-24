@@ -21,7 +21,7 @@ Nếu bạn là người cần phân loại tất cả các chi tiêu của mìn
 - [x] Không có bất cứ quảng cáo mời mọc hoặc theo dõi dữ liệu nào
 
 Thì chương trình này dành cho bạn.
-![Hemi Head_med.png](../assets/attachments/Hemi%20Head_med.png#)
+![Hemi Head_med.png](Hemi%20Head_med.png#)
 # Tính năng
 ## Phân loại thông tin
 Ví dụ, với câu nhập đầu vào là:
@@ -94,7 +94,7 @@ Ví dụ, nếu lúc thiết lập cấu hình bạn có khai báo ba từ khoá
 Ví dụ, từ khoá `ăn trưa với` vừa có thể thuộc nhãn `Mối quan hệ`, vừa có thể thuộc nhãn `Thực phẩm`
 
 ## Xuất, nhập dữ liệu với các chương trình khác
-![Keep to FIbery.png](../assets/attachments/Keep%20to%20FIbery.png#)
+![Keep to FIbery.png](Keep%20to%20FIbery.png#)
 Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu từ Google Keep và xuất dữ liệu sang Fibery. Bạn có thể tự viết những phần bổ trợ khác cho phù hợp với bạn.
 
 Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
@@ -108,7 +108,7 @@ Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể n
 
 # Các tính năng hỗ trợ khác (a.k.a. yêu cầu phi chức năng) 
 - **Viết cho người Việt** nên:
-	- Xử lý được từ ghép và [các cách đặt dấu thanh khác nhau](../%F0%9F%93%9C%20L%E1%BA%ADp%20tr%C3%ACnh/Regex,%20Unicode,%20ti%E1%BA%BFng%20Vi%E1%BB%87t,%20emoji/Regex/Ti%E1%BA%BFng%20Vi%E1%BB%87t%20c%C3%B3%202%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20d%E1%BA%A5u%20thanh.md#)
+	- Xử lý được từ ghép và [các cách đặt dấu thanh khác nhau](Ti%E1%BA%BFng%20Vi%E1%BB%87t%20c%C3%B3%202%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20d%E1%BA%A5u%20thanh.md#)
 	- Tên biến, tên hàm hoàn toàn bằng tiếng Việt
 - **Viết cho người cần sử dụng trên các webapp khác** như Fibery, Google Sheet nên:
 	- Chỉ sử dụng JavaScript thuần 

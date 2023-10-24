@@ -11,7 +11,7 @@ filename: index
 
 # 2. Thiết lập chương trình
 [2. Thiết lập chương trình](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/index.md#)
-[Hiểu về YAML](../../%F0%9F%93%9C%20L%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/Hi%E1%BB%83u%20v%E1%BB%81%20YAML.md#)
+[Hiểu về YAML](Hi%E1%BB%83u%20v%E1%BB%81%20YAML.md#)
 [Sử dụng main.ts](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/S%E1%BB%AD%20d%E1%BB%A5ng%20main.ts.md#)
 [Sử dụng tranky.py](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/S%E1%BB%AD%20d%E1%BB%A5ng%20tranky.py.md#)
 [Thiết lập trên Fibery](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Thi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%AAn%20Fibery.md#)
