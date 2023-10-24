@@ -1,4 +1,4 @@
 ---
 share: true
 ---
-[b](./b/index.md#) [c](./b/c.md#) [d](https://example.com) 
+[b](b.md#) [d](https://example.com) [c](./b/c.md#)(./b/index.md#)
