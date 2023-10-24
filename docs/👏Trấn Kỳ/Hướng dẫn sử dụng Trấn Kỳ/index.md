@@ -7,7 +7,7 @@ filename: index
 ---
 # 1. Cài đặt và sử dụng nhanh
 [1.1 Cài đặt PowerShell, Deno, Python, Git, VS Code](1.1%20C%C3%A0i%20%C4%91%E1%BA%B7t%20PowerShell,%20Deno,%20Python,%20Git,%20VS%20Code.md#)
-[1.2 Lấy code](../1.2%20L%E1%BA%A5y%20code.md#)
+[1.2 Lấy code](./1.%20C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhanh/1.2%20L%E1%BA%A5y%20code.md#)
 
 # 2. Thiết lập chương trình
 [2. Thiết lập chương trình](2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh.md#)
