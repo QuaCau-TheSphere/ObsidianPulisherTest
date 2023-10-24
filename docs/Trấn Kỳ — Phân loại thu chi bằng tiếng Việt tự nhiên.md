@@ -1,11 +1,5 @@
 ---
 share: true
-created: 2023-09-05T16:17
-updated: 2023-10-24T14:15
-title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
-alias: Trấn Kỳ
-description: Phân loại câu nhập bằng tiếng Việt tự nhiên
-filename: index
 ---
 
 
