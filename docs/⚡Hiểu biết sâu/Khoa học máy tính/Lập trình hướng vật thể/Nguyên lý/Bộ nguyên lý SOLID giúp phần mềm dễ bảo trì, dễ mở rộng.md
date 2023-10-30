@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-21T22:37
-updated: 2023-10-06T16:09
+updated: 2023-10-29T15:17
 ---
 Bộ nguyên lý SOLID có vai trò rất quan trọng khi phát triển ứng dụng và được sử dụng phổ biến trong thiết kế và lập trình hướng đối tượng. Khi sử dụng hợp lý, bộ nguyên lý SOLID giúp phần mềm dễ bảo trì, dễ mở rộng. Lập trình viên chuyên nghiệp bắt buộc phải biết và vận dụng thành thạo các nguyên lý SOLID. Đây là bộ nguyên lý mà [sinh viên theo học các hướng/chuyên ngành phát triển ứng dụng cần biết](https://tuhocict.com/muon-thanh-lap-trinh-vien-nen-hoc-nhung-gi/). Bài viết này có mục tiêu giới thiệu bước đầu cho các bạn sinh viên các nguyên lý này để dần có ý thức áp dụng chúng khi code.
 
@@ -13,7 +13,7 @@ Khi học lập trình hướng đối tượng (Object-Oriented Programming, OO
 
 SOLID, ở khía cạnh khác, lại là các _nguyên lý thiết kế_ trong OOP. Hiểu một cách đơn giản, các nguyên lý của OOP mô tả cách thức hoạt động, còn các nguyên lý SOLID mô tả cách thức vận dụng của OOP trong lập trình thực tế.
 
-Việc tuân thủ theo SOLID giúp thiết kế (và code) phần mềm dễ đọc, dễ test, uyển chuyển, dễ bảo trì. Bạn nên hiểu rằng [khâu code phần mềm chỉ chiếm khoảng 13 thời gian. Còn lại là dành cho khâu bảo trì (như thêm bớt chức năng, fix lỗi)](../../L%E1%BA%ADp%20tr%C3%ACnh/Code%20ph%E1%BA%A7n%20m%E1%BB%81m%20ch%E1%BB%89%20chi%E1%BA%BFm%20kho%E1%BA%A3ng%201%20ph%E1%BA%A7n%203%20th%E1%BB%9Di%20gian,%20c%C3%B2n%20l%E1%BA%A1i%20l%C3%A0%20d%C3%A0nh%20cho%20b%E1%BA%A3o%20tr%C3%AC%20(th%C3%AAm%20b%E1%BB%9Bt%20ch%E1%BB%A9c%20n%C4%83ng,%20fix%20l%E1%BB%97i,%20v.v.).md). SOLID giúp ích cực lớn cho khâu này.
+Việc tuân thủ theo SOLID giúp thiết kế (và code) phần mềm dễ đọc, dễ test, uyển chuyển, dễ bảo trì. Bạn nên hiểu rằng [khâu code phần mềm chỉ chiếm khoảng 1/3 thời gian. Còn lại là dành cho khâu bảo trì (như thêm bớt chức năng, fix lỗi)](../../L%E1%BA%ADp%20tr%C3%ACnh/Vi%E1%BA%BFt%20ph%E1%BA%A7n%20m%E1%BB%81m%20ch%E1%BB%89%20chi%E1%BA%BFm%20kho%E1%BA%A3ng%20%E2%85%93%20th%E1%BB%9Di%20gian,%20c%C3%B2n%20l%E1%BA%A1i%20l%C3%A0%20d%C3%A0nh%20cho%20b%E1%BA%A3o%20tr%C3%AC%20(th%C3%AAm%20b%E1%BB%9Bt%20ch%E1%BB%A9c%20n%C4%83ng,%20s%E1%BB%ADa%20l%E1%BB%97i,%20v.v.).md). SOLID giúp ích cực lớn cho khâu này.
 
 Các nguyên lý SOLID khá khó tiêu đối với sinh viên hay thậm chí đối với lập trình viên mới vào nghề. Các [chương trình đào tạo đại học](https://tuhocict.com/xay-dung-chuong-trinh-tu-dao-tao-cong-nghe-thong-tin/) cũng thường chỉ dạy code và công nghệ chứ không chú trọng về cách vận dụng. Vì vậy, việc tự học các vấn đề này là vô cùng quan trọng đối với sinh viên theo các hướng/chuyên ngành liên quan đến phát triển ứng dụng. Việc hiểu và vận dụng SOLID cũng có thể được dùng để đo sự tiến bộ của bạn trên con đường lập trình viên.
 
