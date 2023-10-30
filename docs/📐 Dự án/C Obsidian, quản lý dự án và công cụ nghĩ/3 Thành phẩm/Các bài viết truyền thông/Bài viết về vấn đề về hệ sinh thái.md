@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-27T21:28
+updated: 2023-10-28T17:58
 tags:
   - file_thành-phẩm_bài-viết
 ---
@@ -19,10 +19,7 @@ Thành quả cần có::
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
-- [Trên Discord Obsidian tiếng-Việt](./Tr%C3%AAn%20Discord%20Obsidian%20ti%E1%BA%BFng-Vi%E1%BB%87t.md)
 - [Các bài viết truyền thông](./index.md)
-- [Trên Facebook page QC](./Tr%C3%AAn%20Facebook%20page%20QC.md)
-- [Trên Discord QC](./Tr%C3%AAn%20Discord%20QC.md)
 
 
 Giả thuyết:
