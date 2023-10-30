@@ -38,7 +38,7 @@ Một số thứ sẽ giúp bạn hiểu code nói gì:
 - Hiểu được IDE đang cố gắng nói cho mình cái gì
 - Biết một số kỹ thuật debug: console.log, debugger, unit test
 # Thao tác với IDE
-[Phím tắt cho VS Code](../../%F0%9F%93%9C%20T%C3%A0i%20nguy%C3%AAn/L%E1%BA%ADp%20tr%C3%ACnh/IDE%20(VS%20Code)/Ph%C3%ADm%20t%E1%BA%AFt%20cho%20VS%20Code.md)
+[Phím tắt cho VS Code](Ph%C3%ADm%20t%E1%BA%AFt%20cho%20VS%20Code.md)
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 
 # Hiểu quy tắc viết tài liệu
